@@ -1,4 +1,5 @@
 require 'csv'
+require 'open-uri'
 
 module California
   class Earthquake
@@ -22,6 +23,12 @@ module California
           break if earthquakes.size >= 10
         end
         earthquakes
+      end
+
+      def fetch_data
+        url = ['http://earthquake.usgs.gov/',
+               'earthquakes/feed/v1.0/summary/all_month.csv'].join ''
+        IO.copy_stream open(url), csv_path
       end
 
     private
