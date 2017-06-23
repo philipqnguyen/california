@@ -1,0 +1,24 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-06-02T16:52:02.500Z,33.808,-116.5111,2,1.92,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not In Date Range Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,34.919,-117.6101,2,2.52,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,34.321,-105.8435,2,0.51,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T20:31:07.610Z,33.8596667,-129.3321,2,0.59,ml,33,43,0.06386,0.23,ci,ci37915408,2017-06-21T20:34:54.667Z,"Not Feelable Test City, CA",earthquake,0.34,31.61,0.287,38,automatic,ci,ci
+2017-06-21T16:52:02.500Z,35.231,-116.9399,2,2.41,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,41.441,-120.9905,2,1.11,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,28.101,-117.2321,22,0.23,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,33.561,-115.9905,2,3.21,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,43.911,-116.0111,2,0.54,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,34.321,-116.8435,2,2.42,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T20:31:07.610Z,33.8596667,-117.5026667,2,2.91,ml,33,43,0.06386,0.23,ci,ci37915408,2017-06-21T20:34:54.667Z,"Feelable Test City, CA",earthquake,0.34,31.61,0.287,38,automatic,ci,ci
+2017-06-21T16:52:02.500Z,33.808,-105.5111,2,0.21,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,28.919,-117.6101,2,0.33,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,34.101,-117.2321,2,4.22,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,33.321,-117.4011,2,3.22,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,38.441,-102.8435,22,1.01,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,39.501,-117.9091,2,0.11,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,33.911,-116.0111,2,2.62,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,26.321,-117.4011,2,0.32,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,34.105,-115.8435,2,3.2,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,35.501,-117.9091,2,3.11,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,30.101,-129.9399,2,1.01,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Not Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
+2017-06-21T16:52:02.500Z,35.441,-117.9091,2,3.11,ml,57,26,0.03004,0.21,ci,ci37915264,2017-06-21T17:49:41.796Z,"Feelable Test City, CA",earthquake,0.17,0.29,0.163,50,reviewed,ci,ci
